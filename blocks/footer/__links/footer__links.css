@@ -6,3 +6,11 @@
   gap: 32px;
   list-style-type: none;
 }
+
+@media (min-width: 768px) {
+  .footer__links {
+    flex-direction: row;
+    gap: 18px;
+    list-style-type: none;
+  }
+}

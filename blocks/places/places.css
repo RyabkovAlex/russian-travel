@@ -5,3 +5,17 @@
   gap: 50px;
   padding: 64px 0 66px;
 }
+
+@media (min-width: 768px) {
+  .places {
+    gap: 73px;
+    padding: 88px 24px 90px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .places {
+    gap: 80px;
+    padding: 92px 0 92px;
+  }
+}

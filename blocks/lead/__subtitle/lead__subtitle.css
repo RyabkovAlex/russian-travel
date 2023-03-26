@@ -5,6 +5,7 @@
   font-size: 16px;
   line-height: 20px;
   text-align: center;
+  white-space: pre-line;
 }
 
 @media (min-width: 768px) {
