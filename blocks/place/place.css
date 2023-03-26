@@ -1,0 +1,5 @@
+.place {
+  display: grid;
+  grid-template: repeat(4, auto) / 1fr;
+  row-gap: 32px;
+}

@@ -1,0 +1,6 @@
+.header {
+  /* Исправить у блока не может быть марджинов по БЭМ */
+  margin: 16px 16px 48px;
+  display: flex;
+  justify-content: space-between;
+}

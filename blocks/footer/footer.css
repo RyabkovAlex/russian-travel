@@ -1,0 +1,7 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  max-width: 1184px;
+  padding: 64px 16px 24px;
+  gap: 48px;
+}
