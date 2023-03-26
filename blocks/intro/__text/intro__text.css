@@ -4,3 +4,9 @@
   line-height: 26px;
   font-weight: 400;
 }
+
+@media (min-width: 817px) {
+  .intro__text {
+    max-width: 690px;
+  }
+}

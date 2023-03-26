@@ -1,0 +1,10 @@
+.narrow-block {
+  margin: 0 auto;
+  max-width: 928px;
+}
+
+@media (min-width: 1280px) {
+  .narrow-block {
+    max-width: 984px;
+  }
+}
